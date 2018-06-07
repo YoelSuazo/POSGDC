@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "POSGDC", "POSGDC\POSGDC.vbproj", "{1FF2E261-2743-4E97-9A73-D9CB321134F5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VentasPosgdc", "VentasPosgdc\VentasPosgdc.vdproj", "{077859C1-7E21-44DD-8823-F4DEF741D2B3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PruebasPOS", "PruebasPOS\PruebasPOS.vdproj", "{C4851351-B960-49C7-8823-26B84D6F544E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FF2E261-2743-4E97-9A73-D9CB321134F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FF2E261-2743-4E97-9A73-D9CB321134F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FF2E261-2743-4E97-9A73-D9CB321134F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FF2E261-2743-4E97-9A73-D9CB321134F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{077859C1-7E21-44DD-8823-F4DEF741D2B3}.Debug|Any CPU.ActiveCfg = Debug
+		{077859C1-7E21-44DD-8823-F4DEF741D2B3}.Release|Any CPU.ActiveCfg = Release
+		{C4851351-B960-49C7-8823-26B84D6F544E}.Debug|Any CPU.ActiveCfg = Debug
+		{C4851351-B960-49C7-8823-26B84D6F544E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6AFE4CE-6163-4638-B221-FF45289BF2B7}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+EndGlobal
